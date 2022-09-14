@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1663162099">
+  <project timestamp="1663162099">
+    <file name="/home/egor/hexlet/php-project-57/routes/web.php">
+      <line num="16" type="stmt" count="1"/>
+      <line num="17" type="stmt" count="1"/>
+      <metrics loc="19" ncloc="9" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="2" coveredelements="2"/>
+    </file>
+    <metrics files="1" loc="19" ncloc="9" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="2" coveredelements="2"/>
+  </project>
+</coverage>
